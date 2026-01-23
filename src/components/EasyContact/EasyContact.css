@@ -1,0 +1,24 @@
+.EsyContact {
+  width: 4%;
+  position: fixed;
+  z-index: 2;
+  /* background: white; */
+  right: 60px;
+  transform: translateY(44%);
+  bottom: 13%;
+  /* backdrop-filter: blur(20px); */
+  border-radius: 315rem;
+}
+small.messngers {
+  font-size: 45px;
+  color: #006aff;
+  background: white;
+}
+
+@media screen and (max-width: 600px) {
+  .EsyContact {
+    bottom: 20%;
+    width: 15%;
+    right: 25px;
+  }
+}

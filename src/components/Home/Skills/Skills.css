@@ -1,0 +1,8 @@
+@media screen and (max-width: 600px) {
+  .sm\:m-auto.order-first.md\:order-last.aos-init.aos-animate {
+    margin-bottom: 33px;
+    font-size: 15px;
+    margin: auto;
+    margin-bottom: 32px;
+  }
+}

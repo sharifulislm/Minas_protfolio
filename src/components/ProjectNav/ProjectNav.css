@@ -1,0 +1,20 @@
+.about_card .Projects-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: auto;
+  width: 75%;
+  justify-content: center;
+  gap: 30%;
+}
+.card.w-100.bg-neutral.text-neutral-content {
+  background: #002c58;
+  border-radius: 31px;
+  box-shadow: 1px 0px 8px 7px #625c5c;
+}
+nav a:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+nav a.active {
+  background-color: var(--color-primary);
+  color: var(--color-bg);
+}

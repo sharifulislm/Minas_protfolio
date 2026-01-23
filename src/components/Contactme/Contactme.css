@@ -1,0 +1,126 @@
+.container.contact_container {
+  width: 58%;
+  display: grid;
+  grid-template-columns: 30% 58%;
+  gap: 12%;
+}
+.contact_options {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+.email {
+  font-size: 11px;
+}
+.contact-option {
+  background-color: var(--color-bg-variant);
+  /* padding: 1.2rem; */
+  border-radius: 1.2rem;
+  text-align: center;
+  border: 1px solid transparent;
+}
+.contact-option:hover {
+  background-color: transparent;
+  border-color: var(--color-primary-variant);
+  cursor: default;
+}
+
+.contact_option_icon {
+  font-size: 33px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.contact-option a {
+  margin-top: -0.3rem;
+  display: inline-block;
+  font-size: 0.8rem;
+  margin-bottom: 10px;
+}
+
+/* ************* FORM *********** */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+input,
+textarea {
+  width: 90%;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  background-color: transparent;
+  border: 2px solid var(--color-primary-variant);
+  color: var(--color-white);
+  /* resize: none; */
+}
+
+/*###############   MEDIA QUERIES (MEDIUM DEVICES)   ################*/
+@media screen and (max-width: 1024px) {
+  .container.contact_container {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .email {
+    font-size: 0.8rem;
+  }
+}
+
+/*###############   MEDIA QUERIES (SMALL DEVICES)   ################*/
+@media screen and (max-width: 600px) {
+  .container.contact_container {
+    grid-template-columns: 1fr;
+    width: var(--container-width-sm);
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .container.continer-from {
+    grid-template-columns: 1fr;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .contact_options {
+    /* margin-right: 0px; */
+    margin-left: 32px;
+  }
+  input {
+    width: 100%;
+    margin: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  textarea {
+    width: 100%;
+    margin: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  form#contactmeEmail {
+    margin: auto;
+  }
+  input.aos-init.aos-animate {
+    width: 100%;
+  }
+  textarea.aos-init.aos-animate {
+    width: 100%;
+  }
+  .btn-primary {
+    background: var(--color-primary);
+    color: var(--color-bg);
+    margin: auto;
+  }
+
+  /* footer ar css start  */
+
+  span.text-center.text-white {
+    margin: auto;
+  }
+  span.text-white {
+    margin: auto;
+  }
+  /* footer ar css end  */
+}

@@ -1,0 +1,32 @@
+a.Connects.text-white {
+  padding: 9px 9px;
+  width: 130px;
+  font-weight: bold;
+  border: 1px solid rgb(25, 171, 120);
+  margin-left: 10px;
+  border-radius: 5px;
+}
+img,
+video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 14px;
+}
+span.text-white.text-3xl.p-2.rounded {
+  /* border: 1px solid white; */
+  border-radius: 100px;
+  margin: 3px;
+}
+a.btn.logostyles.btn-ghost.normal-case.text-xl {
+  font-family: cursive;
+  font-weight: 800;
+  border: none;
+  font-size: x-large;
+}
+
+/*###############   MEDIA QUERIES (SMALL DEVICES)   ################*/
+@media screen and (max-width: 600px) {
+  .navbar-end.sm\:.justify-end {
+    margin-left: 150px;
+  }
+}
