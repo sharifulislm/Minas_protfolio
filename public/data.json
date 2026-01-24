@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "images": "https://github.com/sharifulislm/Protfolio-/blob/main/projects-photo/Screenshot%20(2).png?raw=true",
+    "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YmbyZy8QNhxBh17mHW5_sHNfr9Sc0Z4W4Q&s",
     "Role": "https://github.com/sharifulislm/manufacturer-parts-server",
     "name": "HR management System",
     "description": "Intelclick on view more for more details",
-    "Live": "https://parts-manufacturer-fa964.web.app/",
+    "Live": "https://www.appclonescript.com/what-is-hr-management-system-software/",
     "Githup": "https://github.com/sharifulislm/manufacturer-prats"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "id": 6,
-    "images": "https://github.com/sharifulislm/Protfolio-/blob/main/projects-photo/Screenshot%20(150).png?raw=true",
+    "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_2PKY3_zOJOGRAnCshzVvzwakVwn_QEB4RQ&s",
     "price": 25,
 
-    "name": "Search your anything",
-    "description": "ENJOLA Lorem ipsum, dolor sit amet consectetur adipisicing elit. A rerum exercitationem ipsum voluptatibus magni, optio architecto. Sint voluptatum consequatur eveniet delectus, quasi quaerat similique doloribus numquam fugit facilis eius architecto.",
-    "Live": "eager-hugle-92b7d1.netlify.app/",
+    "name": "Lawyer appointment system",
+    "description": "Lawyer Consultation App Development ",
+    "Live": "https://www.apptunix.com/blog/build-a-lawyer-consultation-app-a-comprehensive-guide/",
     "Githup": "https://github.com/sharifulislm/find-product-with-search"
   },
   {
