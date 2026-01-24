@@ -3,7 +3,7 @@
     "id": 1,
     "images": "https://github.com/sharifulislm/Protfolio-/blob/main/projects-photo/Screenshot%20(2).png?raw=true",
     "Role": "https://github.com/sharifulislm/manufacturer-parts-server",
-    "name": "tools manufacturer website ",
+    "name": "HR management System",
     "description": "Intelclick on view more for more details",
     "Live": "https://parts-manufacturer-fa964.web.app/",
     "Githup": "https://github.com/sharifulislm/manufacturer-prats"
@@ -38,13 +38,11 @@
   {
     "id": 5,
     "quantity": "100",
-    "images": "https://github.com/sharifulislm/Protfolio-/blob/main/projects-photo/Image%201.png?raw=true",
+    "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD2unAQyiw5AAUThV1sYSXoil14i1jQOUgCg&s",
     "price": 350,
-    "name": "Money calculation",
-
-    "description": "html,css, javascript",
-    "Live": "https://eager-jackson-8365cf.netlify.app/",
-    "Githup": "https://github.com/Porgramming-Hero-web-course/money-master-sharifulislm?fbclid=IwAR3cnkI1q3Gn2reUwM8t0uVyCn7iy_gVgtrk9mixF-flzoCjZCf4eKVhMJg"
+    "name": "Clinic management",
+    "description": "Medical Practice Management System",
+    "Live": "https://fekrait.com/en/articles/clinics/clinic-management-program"
   },
   {
     "id": 6,
