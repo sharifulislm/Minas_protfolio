@@ -41,8 +41,8 @@ const Contactme = () => {
      data-aos-duration="2000" className="contact-option">
            <MdOutlineEmail className="contact_option_icon text-white m-auto" /> 
             <h4>Email</h4>
-            <h5 className="email">sharif.hossain.p87@gmail.com</h5>
-             <a href="mailto:sharif.hossain.p87@gmail.com"> Send a message</a>
+            <h5 className="email">Mjpixelvibe@gmail.com</h5>
+             <a href="Mjpixelvibe@gmail.com"> Send a message</a>
           </article>
           <article
           data-aos="flip-left"
@@ -51,9 +51,9 @@ const Contactme = () => {
           className="contact-option">
           <RiMessengerLine className="contact_option_icon m-auto text-white" />
             <h4>Messenger</h4>
-            <h5>Shariful islam</h5>
+            <h5>Menis Jean</h5>
             <a
-              href="https://m.me/shariful.islam.fb"
+              href="https://linktr.ee/mjpixelvibe"
               target="_blank"
               rel="noreferrer"
             >
@@ -67,10 +67,10 @@ const Contactme = () => {
           className="contact-option">
          <BsWhatsapp className="contact_option_icon m-auto text-white" />
             <h4>WhatsApp</h4>
-            <h5>+96551494820</h5>
+            <h5>+96555776433</h5>
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send?phone+96551494820"
+              href="https://api.whatsapp.com/send?phone++96555776433"
               rel="noreferrer"
             >
                  Send a message

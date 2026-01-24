@@ -8,55 +8,64 @@ const skillss = [
     {
 
       "id": 1,
-      "name1": "Website",
+      "name1": "WebApplication",
       "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyIEirsm9ozDvwhP--ldqggqf6Yz-gVBLxg&s",
       "name2": "Mobile App",
       "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtTrVvTGj9XFzxZQdTaHmNocXygw72C5HJQ&s",
       "name3": "Oracle System ",
       "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsf_k03KRdC4NkZaZ5esQz8sGlxwBJ-xX9sw&s",
-      "name4": "WebApplication",
+      "name4": "security system",
       "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4J9SRxswvqp80A8qnEZ_6P6a8oyASxOx8rQ&s",
-      "name5": "CCTV / security system",
+      "name5": "CCTV system",
       "img5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dU_3RJlKWqAA1ibIfEsXDdmRMGIHZJLBWQ&s",
     
     },
-    {
-      "id": 2,
-      "name1": "Html 5",
-      "img1": "https://azim-profile.netlify.app/static/media/html.508b267241d25229c7a8.png",
-      "name2": "Bootstrap",
-      "img2": "https://azim-profile.netlify.app/static/media/bootstrap.eb4bbd494473eb1d52ca.png",
-      "name3": "JavaScript",
-      "img3": "https://azim-profile.netlify.app/static/media/html.508b267241d25229c7a8.png",
-      "name4": "React js",
-      "img4": "https://azim-profile.netlify.app/static/media/react.3977ddbe7f665b2c0aee.png",
-      "name5": "React Bootstrap",
-      "img5": "https://azim-profile.netlify.app/static/media/rb.c583c04000d30b085623.png",
-    },
-    {
-      "id": 3,
-      "name1": "Node.js",
-      "img1": "https://azim-profile.netlify.app/static/media/node.593013e5018ed329d3f4.png",
-      "name2": "MongoDB",
-      "img2": "https://azim-profile.netlify.app/static/media/mongoDB.2341c8f8e37584b40f41.png",
-      "name3": "Express.js",
-      "img3": "https://azim-profile.netlify.app/static/media/express.213bce8758c3b770c1b2.png",
-      "name4": "Firebase",
-      "img4": "https://azim-profile.netlify.app/static/media/firebase.d19d58ab5b56ed09d654.png",
-      "name5": "React Hook",
-      "img5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5RY46Qm-MPuv62Xv5asvMF03s1d_ep1mIDPa-8Aaw5el4TJ6wW_RBRuQN3mdO__21Ik&usqp=CAU",
+{
+  "id": 2,
+  "name1": "ChatGPT",
+  "img1": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
 
-    },
+  "name2": "Google Gemini",
+  "img2": "https://img.freepik.com/premium-vector/gemini-logo-icon_1273375-853.jpg",
+
+  "name3": "Midjourney",
+  "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGmOnMb0cQamyIDKNPZKduY8wMWn2XNhtRg&s",
+
+  "name4": "Runway ML",
+  "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoR5JzzqzY9OgZHmLRHM8j8TSg9ONCwrWz7Q&s",
+
+  "name5": "Leonardo AI",
+  "img5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJM0KLpr7Jw3pTXTcwu7A9VdjWAgnCJixDA&s"
+}
+,
+{
+  "id": 3,
+  "name1": "Node.js",
+  "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bSt16XVIR9526s9Rs6OUTds5FV8oZ_vX1w&s",
+
+  "name2": "React JS",
+  "img2": "https://azim-profile.netlify.app/static/media/react.3977ddbe7f665b2c0aee.png",
+
+  "name3": "JavaScript",
+  "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSod7CJvOSEFdtFtmH1pbaPYSW8M4gXMwsmWA&s",
+
+  "name4": "Express.js",
+  "img4": "https://azim-profile.netlify.app/static/media/express.213bce8758c3b770c1b2.png",
+
+  "name5": "Firebase",
+  "img5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iaSsAwCkQDsgn_WxZhC5OW-apJBRVP3wHw&s"
+},
+
     {
       "id": 4,
       "name1": "Vs Studio Code",
       "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1bFwS4rOJgaNvb1xLMNpvRHJK6WEkgbV9A&usqp=CAU",
       "name2": "Chrome Tools",
       "img2": "https://github.com/sharifulislm/Protfolio-/blob/main/skills-icon/skills-icon%20(1).png?raw=true",
-      "name3": "Heroku",
-      "img3": "https://camo.githubusercontent.com/8274f7df75bac91a2ac39f668c78df0817428ec3e465c7d1b899c664a60f701e/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635456736f7838767542314e73596d3969454f455f2d776473734f4b6d56654d765167387726757371703d434155",
+      "name3": "Wordpress",
+      "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvB7zu5BqUfaCqgAdsqI5NfkPL1-n0Jx1LA&s",
       "name4": "Stripe",
-      "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsr7nmbrdidXzM6O88ufEGcoHt-ol51Zzzow&usqp=CAU",
+      "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnfaLYnjLtsJ7BuV8aYJ2tUNzSvztoahLZA&s",
       "name5": "DaisyUI",
       "img5": "https://azim-profile.netlify.app/static/media/dui.f3c5220288ff2b6eedcd.png",
     }

@@ -41,7 +41,7 @@ const Navbar = () => {
 
           </ul>
           <span className='text-white text-3xl p-2 rounded'>  <BsFacebook ></BsFacebook></span>  
-       <span className='text-white text-3xl w-12 p-2 rounded'>  <img src="https://i.pinimg.com/736x/b1/d4/5f/b1d45f86aa764cc035f057cb7d61a7b7.jpg" alt="" /></span>  
+       <span className='text-white text-3xl w-12 p-2 rounded'>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn7j72atakY6MHFWxzbnz23bQn9rwrzRfNNg&s" alt="" /></span>  
        <span className='text-white text-3xl p-2 rounded'>  <BsGithub ></BsGithub></span> 
        <a class="Connects text-white">Let's Connect</a>
 

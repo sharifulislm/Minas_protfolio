@@ -1,6 +1,6 @@
 import { FaAward, FaUsers } from 'react-icons/fa';
 import { VscFolderLibrary } from "react-icons/vsc";
-import img from "../../assets/img/menas.jpeg";
+import img from "../../assets/img/minag_about .jpeg";
 import './About.css';
 
 const About = () => {
@@ -32,7 +32,7 @@ const About = () => {
               className="about_card">
                 <FaAward className="about_icon" />
                 <h5>Experience</h5>
-                <small>1+ Years Working</small>
+                <small>15+ Years Working</small>
               </article>
               <article
                data-aos="flip-left"
@@ -41,7 +41,7 @@ const About = () => {
               className="about_card">
                 <FaUsers className="about_icon" />
                 <h5>Clients</h5>
-                <small>0 Worldwide</small>
+                <small>12 Worldwide</small>
               </article>
               <article
                data-aos="flip-left"
@@ -50,7 +50,7 @@ const About = () => {
               className="about_card">
                 <VscFolderLibrary className="about_icon" />
                 <h5>Projects</h5>
-                <small>5+ Completed</small>
+                <small>50+ Completed</small>
               </article>
             </div>
             <p className='text-left' 
@@ -58,11 +58,8 @@ const About = () => {
               data-aos-anchor-placement="top-bottom"
               data-aos-duration="1500"
             >
-Im Sharif Hossain  
- I have done some MERN projects and one Manufacture management system. 
- I am very confident, hard working and dedicated with time management.
- You can Hire me Remote work or On-site in kuwait my visa categories Transferable,
- and I am available for freelance. <br />
+Im Manis Jean  
+A versatile technology professional with experience in IT support, software development, AI-based solutions, digital content creation, prompt engineering, and digital marketing. Skilled in delivering efficient, high-quality solutions, managing time effectively, and adapting to different project requirements. Committed to continuous learning, problem-solving, and providing reliable services that add real value to businesses and clients. <br />
  let me know via Phone call, whatsapp or email.
                </p>
             
