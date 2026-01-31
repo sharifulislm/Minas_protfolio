@@ -19,12 +19,12 @@ const About = () => {
               <img src={img} alt="About" />
             </div>
           </div>
-          <div className="about_content">
+          <div className="about_content  " >
             <div 
              data-aos="fade-up"
              data-aos-anchor-placement="top-bottom"
              data-aos-duration="1500"
-            className="about_cards">
+            className="about_cards mt-20">
               <article 
               data-aos="flip-left"
               data-aos-easing="ease-out-cubic"

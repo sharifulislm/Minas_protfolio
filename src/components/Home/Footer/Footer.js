@@ -42,7 +42,7 @@ const Footer = () => {
 
       {/* Bottom copyright */}
       <div className="text-center text-gray-500 text-sm mt-6">
-        © {new Date().getFullYear()} Print on Demand. All rights reserved.
+      <a href="https://github.com/sharifulislm/Minas_protfolio">  © </a>{new Date().getFullYear()}  Print on Demand. All rights reserved.
       </div>
     </footer>
        </>

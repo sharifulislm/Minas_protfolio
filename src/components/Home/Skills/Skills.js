@@ -13,7 +13,7 @@ const skillss = [
       "name2": "Mobile App",
       "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtTrVvTGj9XFzxZQdTaHmNocXygw72C5HJQ&s",
       "name3": "Oracle ",
-      "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsf_k03KRdC4NkZaZ5esQz8sGlxwBJ-xX9sw&s",
+      "img3": "https://github.com/sharifulislm/Minas_protfolio/blob/main/src/assets/logo/download%20(5).png?raw=true",
       "name4": "Security Management ",
       "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4J9SRxswvqp80A8qnEZ_6P6a8oyASxOx8rQ&s",
       "name5": "UI Design",
@@ -26,7 +26,7 @@ const skillss = [
   "img1": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
 
   "name2": "agentic AI Automation",
-  "img2": "https://raw.githubusercontent.com/sharifulislm/Minas_protfolio/refs/heads/main/src/assets/logo/download%20(1).jfif",
+  "img2": "https://raw.githubusercontent.com/sharifulislm/Minas_protfolio/refs/heads/main/src/assets/logo/download%20(3).jfif",
 
   "name3": "Img/Vdo Generator ",
   "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtQct7BNfjT_A1NIRLg6BVMrT9GBkzgQBPQ&s",
@@ -44,13 +44,13 @@ const skillss = [
   "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbsiUl1OIAieg4-SY9qh4jFKwj5rV1QAlMg&s",
 
   "name2": "Usr Authentication ",
-  "img2": "https://azim-profile.netlify.app/static/media/react.3977ddbe7f665b2c0aee.png",
+  "img2": "https://github.com/sharifulislm/Minas_protfolio/blob/main/src/assets/logo/download%20(4).png?raw=true",
 
   "name3": "API Integration/Security",
-  "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSod7CJvOSEFdtFtmH1pbaPYSW8M4gXMwsmWA&s",
+  "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0CiQhQoS9s991HHae9eb74TxiRwiG0m-m0g&s",
 
     "name4": "UI Design",
-  "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZ4bzkxmcgkukcgOnf6PondDhPqnLkqXKUg&s",
+  "img4": "https://raw.githubusercontent.com/sharifulislm/Minas_protfolio/refs/heads/main/src/assets/logo/download%20(2).jfif",
 
   "name5": "Firebase",
   "img5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iaSsAwCkQDsgn_WxZhC5OW-apJBRVP3wHw&s"

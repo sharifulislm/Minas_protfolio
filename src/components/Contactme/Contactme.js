@@ -14,7 +14,7 @@ const Contactme = () => {
     const sendEmail = (e) => {
         e.preventDefault();
     
-        emailjs.sendForm('service_hbyvycq', 'template_4sllcq9', e.target, 'HmDKt3gAaokdpNhzA')
+        emailjs.sendForm('service_w5ckfr1', 'template_4sllcq9', e.target, 'HmDKt3gAaokdpNhzA')
           .then((result) => {
               console.log(result.text);
               toast.success("Message sent!");
