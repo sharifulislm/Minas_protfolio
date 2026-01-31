@@ -1,13 +1,13 @@
-// import messanger from '../../assets/logo/download.jfif';
+import img from '../../assets/logo/minas_log.jpeg';
 import './EasyContact.css';
 
 const EasyContact = () => {
     return (
         <div className='EsyContact'>
-  <a href="https://www.instagram.com/direct/t/mjpixelvibe/" target="_blank" rel="noreferrer" >
+  {/* <a href="https://www.instagram.com/direct/t/mjpixelvibe/" target="_blank" rel="noreferrer" >   </a> */}
      {/* <small className='messngers'> <RiMessengerLine/></small> */}
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZbhW96ZJjaOI4I7ZAD6sW9OSUcQi1t-ncg&s" alt="" />
-     </a>
+<a href="https://linktr.ee/mjpixelvibe"><img className='w-12 rounded-full' src={img} alt="" /></a> 
+  
             
         </div>
     );

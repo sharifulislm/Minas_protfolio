@@ -25,14 +25,14 @@ const skillss = [
   "name1": "Promt Engeniring ",
   "img1": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
 
-  "name2": "gentic AI",
+  "name2": "agentic AI Automation",
   "img2": "https://raw.githubusercontent.com/sharifulislm/Minas_protfolio/refs/heads/main/src/assets/logo/download%20(1).jfif",
 
   "name3": "Img/Vdo Generator ",
   "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtQct7BNfjT_A1NIRLg6BVMrT9GBkzgQBPQ&s",
 
-  "name4": "Runway ML",
-  "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoR5JzzqzY9OgZHmLRHM8j8TSg9ONCwrWz7Q&s",
+  "name4": "JavaScript",
+  "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSod7CJvOSEFdtFtmH1pbaPYSW8M4gXMwsmWA&s",
 
   "name5": "Open AI ",
   "img5": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
@@ -40,17 +40,17 @@ const skillss = [
 ,
 {
   "id": 3,
-  "name1": "Node.js",
-  "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bSt16XVIR9526s9Rs6OUTds5FV8oZ_vX1w&s",
+  "name1": "Deployment & Hosting",
+  "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbsiUl1OIAieg4-SY9qh4jFKwj5rV1QAlMg&s",
 
-  "name2": "React JS",
+  "name2": "Usr Authentication ",
   "img2": "https://azim-profile.netlify.app/static/media/react.3977ddbe7f665b2c0aee.png",
 
-  "name3": "JavaScript",
+  "name3": "API Integration/Security",
   "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSod7CJvOSEFdtFtmH1pbaPYSW8M4gXMwsmWA&s",
 
-  "name4": "Express.js",
-  "img4": "https://azim-profile.netlify.app/static/media/express.213bce8758c3b770c1b2.png",
+    "name4": "UI Design",
+  "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZ4bzkxmcgkukcgOnf6PondDhPqnLkqXKUg&s",
 
   "name5": "Firebase",
   "img5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iaSsAwCkQDsgn_WxZhC5OW-apJBRVP3wHw&s"

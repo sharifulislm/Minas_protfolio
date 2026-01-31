@@ -1,58 +1,50 @@
-import { FaInstagramSquare, FaTiktok } from "react-icons/fa";
 // import img from '../../assets/logo/minas_log.jpeg';
 
-import { BsWhatsapp } from "react-icons/bs";
-import { Link } from 'react-router-dom';
 // import img from '../../../assets/logo/FullLogo_NoBuffer.jpg';
 
 const Footer = () => {
     return (
        <>
-       <footer id='footers' class="footer p-10 bg-black text-white">
-  
+  <footer className="bg-black text-white py-8">
+      <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
+        
+        {/* Left Section: Branding / Logo */}
+        <div className="mb-4 md:mb-0">
+          <h2 className="text-xl font-bold uppercase"> print on demand </h2>
+          <p className="text-gray-400 text-sm">Showcasing print-on-demand designs</p>
+        </div>
 
-  <div className='m-auto'>
-  <a href="https://linktr.ee/mjpixelvibe" target="_blank" rel="noreferrer" style={{color:"white"}} className="btn logostyles btn-ghost normal-case text-xl">POD</a>
-  <div class=" flex">
-   {/* <a href="https://www.fiverr.com/mjpixelvibe?source=gig_page"><img className='w-10' src={img} alt="" /></a>  */}
-    {/* <a href="https://www.linkedin.com/in/sharifulislm/?fbclid=IwAR26GK7V66g2pHPsxf65JHItfEFwQuHoNv7Ndj9xHwXsijO8rY4WzmgrLHs" target="_blank" rel="noreferrer" style={{color:"#19AB78"}} className="btn logostyles btn-ghost normal-case text-xl">MJ</a> */}
-  </div>
-  <div class="navbar-end  md: justify-end">
- {/* <a className='text-white text-3xl p-2 rounded md:order-first order-last' href="https://linktr.ee/mjpixelvibe" target="_blank" rel="noreferrer"> <span className='text-white text-3xl p-2 rounded'>     <img className='w-8' src={img} alt="" /></span>  </a> */}
-    <a className='text-white text-3xl p-2 rounded' href="https://www.instagram.com/mjpixelvibe?igsh=dXpxZmM0NmxtMGV4" target="_blank" rel="noreferrer">  <span className='text-white text-3xl w-12 p-2 rounded'> <FaInstagramSquare></FaInstagramSquare > </span>  </a> 
-      <a className='text-white text-3xl p-2 rounded' href="https://www.tiktok.com/@mjpixelvibe?_r=1&_t=ZS-93JOwfKeFI9" target="_blank" rel="noreferrer"> <span >  <FaTiktok > </FaTiktok></span> </a>
-  </div>
-  </div> 
-  <div className='text-left m-auto text-white'>
-  <span class=" text-center  text-white">Contact info </span> 
-<ul className='text-white'>
+        {/* Middle Section: Links */}
+        <div className="flex space-x-6 mb-4 md:mb-0">
+          <a href="##Skills" className="hover:text-gray-300 transition">Skills</a>
+          <a href="https://linktr.ee/mjpixelvibe" className="hover:text-gray-300 transition">Portfolio</a>
+          <a href="#contact" className="hover:text-gray-300 transition">Contact</a>
+        </div>
 
-<li ><Link className='text-white' to="/">Mjpixelvibe@gmail.com</Link></li>
-<li><Link className='text-white' to="/Service">+96555776433</Link></li>
- <li><Link className='text-white' to="/AllReveiw">Kuwait city</Link></li>
-</ul>
+        {/* Right Section: Social / Contact */}
+        <div className="flex space-x-4">
+          <a
+            href="https://www.instagram.com/mjpixelvibe"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-gray-300 transition"
+          >
+            Instagram
+          </a>
+          <a
+            href="mailto:Mjpixelvibe@gmail.com"
+            className="hover:text-gray-300 transition"
+          >
+            Email
+          </a>
+        </div>
+      </div>
 
-  </div> 
-  <div className='m-auto '>
-    <span class=" text-white ">Social</span> 
-    <div class=" flex">
- <a className='text-white text-3xl p-2 rounded' href="https://api.whatsapp.com/send?phone+96551494820" target="_blank" rel="noreferrer"> <span className='text-white text-3xl p-2 rounded'>  <BsWhatsapp></BsWhatsapp></span>  </a>
-    {/* <a className='text-white text-3xl p-2 rounded' href="mailto:sharif.hossain.p87@gmail.com " target="_blank" rel="noreferrer">  <span className='text-white text-3xl w-12 p-2 rounded'> <AiOutlineMail></AiOutlineMail> </span>  </a> 
-    <a className='text-white text-3xl p-2 rounded' href="https://twitter.com/sharif26630" target="_blank" rel="noreferrer">  <span className='text-white text-3xl w-12 p-2 rounded'> <AiOutlineTwitter></AiOutlineTwitter> </span>  </a>  */}
-  </div>
-  </div>
-  <div className='text-left invisible  md:visible '>
-
-<ul className=''>
-<li className='mb-2'><Link className='text-white' to="/">HOME</Link></li>
-<li className='mb-2'><Link className='text-white' to="/Service">PROJECTS</Link></li>
- <li className='mb-2'><Link className='text-white' to="/AllReveiw">BLOG</Link></li>
- <li className='mb-2'><Link className='text-white' to="/ABOUT">ABOUT</Link></li>
-
-</ul>
-
-  </div> 
-</footer>
+      {/* Bottom copyright */}
+      <div className="text-center text-gray-500 text-sm mt-6">
+        © {new Date().getFullYear()} Print on Demand. All rights reserved.
+      </div>
+    </footer>
        </>
     );
 };

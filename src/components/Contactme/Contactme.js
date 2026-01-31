@@ -1,6 +1,6 @@
 import emailjs from '@emailjs/browser';
 import { useRef } from 'react';
-import { BsWhatsapp } from "react-icons/bs";
+import { FaInstagram } from "react-icons/fa";
 import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";
 import { TbSend } from "react-icons/tb";
@@ -9,6 +9,7 @@ import "react-toastify/dist/ReactToastify.css";
 import './Contactme.css';
 
 const Contactme = () => {
+  
     const form = useRef();
     const sendEmail = (e) => {
         e.preventDefault();
@@ -42,7 +43,7 @@ const Contactme = () => {
            <MdOutlineEmail className="contact_option_icon text-white m-auto" /> 
             <h4>Email</h4>
             <h5 className="email">Mjpixelvibe@gmail.com</h5>
-             <a href="Mjpixelvibe@gmail.com"> Send a message</a>
+             <a href="mailto:Mjpixelvibe@gmail.com" target="_blank" rel="noopener noreferrer"> Send a message</a>
           </article>
           <article
           data-aos="flip-left"
@@ -65,12 +66,12 @@ const Contactme = () => {
           data-aos-easing="ease-out-cubic"
           data-aos-duration="2000"
           className="contact-option">
-         <BsWhatsapp className="contact_option_icon m-auto text-white" />
-            <h4>WhatsApp</h4>
-            <h5>+96555776433</h5>
+         <FaInstagram className="contact_option_icon m-auto text-white" />
+            <h4>Instagram</h4>
+            <h5></h5>
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send?phone++96555776433"
+              href="https://www.instagram.com/mjpixelvibe"
               rel="noreferrer"
             >
                  Send a message
