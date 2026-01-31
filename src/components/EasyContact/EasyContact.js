@@ -4,9 +4,9 @@ import './EasyContact.css';
 const EasyContact = () => {
     return (
         <div className='EsyContact'>
-  <a href="https://api.whatsapp.com/send?phone+96555776433" target="_blank" rel="noreferrer" >
+  <a href="https://www.instagram.com/direct/t/mjpixelvibe/" target="_blank" rel="noreferrer" >
      {/* <small className='messngers'> <RiMessengerLine/></small> */}
-     <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-01-512.png" alt="" />
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZbhW96ZJjaOI4I7ZAD6sW9OSUcQi1t-ncg&s" alt="" />
      </a>
             
         </div>

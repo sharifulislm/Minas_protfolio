@@ -3,7 +3,7 @@ import { TypeAnimation } from 'react-type-animation';
 import './TypeingStyle.css';
 const Typewrite = () => {
     return (
-        <div className='lg:mt-20 sm:mt-3 '>
+        <div className='lg:mt-20 sm:mt-3 mt-20 '>
         <h1 style={{margin: 'auto 0'}}>
           
             <small className='Typeings flex' > 

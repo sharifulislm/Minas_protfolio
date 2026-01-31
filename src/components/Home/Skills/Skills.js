@@ -22,11 +22,11 @@ const skillss = [
     },
 {
   "id": 2,
-  "name1": "OpenAI",
+  "name1": "Promt Engeniring ",
   "img1": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
 
   "name2": "gentic AI",
-  "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEy07F4WwFUg63Y9W6szYgd0r83I9jKVY3OA&s",
+  "img2": "https://raw.githubusercontent.com/sharifulislm/Minas_protfolio/refs/heads/main/src/assets/logo/download%20(1).jfif",
 
   "name3": "Img/Vdo Generator ",
   "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtQct7BNfjT_A1NIRLg6BVMrT9GBkzgQBPQ&s",
@@ -34,8 +34,8 @@ const skillss = [
   "name4": "Runway ML",
   "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoR5JzzqzY9OgZHmLRHM8j8TSg9ONCwrWz7Q&s",
 
-  "name5": "Leonardo AI",
-  "img5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJM0KLpr7Jw3pTXTcwu7A9VdjWAgnCJixDA&s"
+  "name5": "Open AI ",
+  "img5": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
 }
 ,
 {

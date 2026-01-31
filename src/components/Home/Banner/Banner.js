@@ -29,7 +29,7 @@ const Banner = () => {
              data-aos="fade-up"
              data-aos-anchor-placement="top-bottom"
              data-aos-duration="1500"
-          class="md:order-first order-last md:mt-5 w-4/5">
+          class="md:order-first order-last md:mt-5 w-4/5 lg:mt-36">
 
            <Typewrite></Typewrite>
 
@@ -48,7 +48,7 @@ I combine technology, design, and AI tools to turn ideas into real-world solutio
           <div 
           data-aos="fade-up"
           data-aos-anchor-placement="top-bottom"
-          data-aos-duration="1500"
+          data-aos-duration="1500 "
           class="w-3/4 order-first md:order-last  bannerPhato ml-8 mt-6 ">
           <img className='bannerPhoto' src={img} alt="" />
           </div>
