@@ -12,7 +12,7 @@ const Footer = () => {
   
 
   <div className='m-auto'>
-  <a href="https://www.linkedin.com/in/sharifulislm/?fbclid=IwAR26GK7V66g2pHPsxf65JHItfEFwQuHoNv7Ndj9xHwXsijO8rY4WzmgrLHs" target="_blank" rel="noreferrer" style={{color:"white"}} className="btn logostyles btn-ghost normal-case text-xl">MJ</a>
+  <a href="https://linktr.ee/mjpixelvibe" target="_blank" rel="noreferrer" style={{color:"white"}} className="btn logostyles btn-ghost normal-case text-xl">POD</a>
   <div class=" flex">
    {/* <a href="https://www.fiverr.com/mjpixelvibe?source=gig_page"><img className='w-10' src={img} alt="" /></a>  */}
     {/* <a href="https://www.linkedin.com/in/sharifulislm/?fbclid=IwAR26GK7V66g2pHPsxf65JHItfEFwQuHoNv7Ndj9xHwXsijO8rY4WzmgrLHs" target="_blank" rel="noreferrer" style={{color:"#19AB78"}} className="btn logostyles btn-ghost normal-case text-xl">MJ</a> */}

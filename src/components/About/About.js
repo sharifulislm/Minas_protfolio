@@ -1,6 +1,6 @@
 import { FaAward, FaUsers } from 'react-icons/fa';
 import { VscFolderLibrary } from "react-icons/vsc";
-import img from "../../assets/img/minag_about .jpeg";
+import img from "../../assets/img/menasphot (3).png";
 import './About.css';
 
 const About = () => {

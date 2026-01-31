@@ -1,25 +1,25 @@
-import { ImArrowDown } from "react-icons/im";
-import myResume from '../../../assets/CV/SHARIF-frontend-developer-1[5].pdf';
-import img from '../../../assets/img/menas.jpeg';
+import { FaArrowRight } from "react-icons/fa";
+// import myResume from '../../../assets/CV/SHARIF-frontend-developer-1[5].pdf';
+import img from '../../../assets/img/menasphot (1).png';
 import './Banner.css';
 import Typewrite from './Typewrite';
 
 const Banner = () => {
   // const url = 'https://drive.google.com/file/d/1PhUwmgIvnamfQLackrm7zuFUUziN09q6/view?usp=sharing';
-  const onButtonClick = () => {
-    // using Java Script method to get PDF file
-    fetch(myResume).then(response => {
-        response.blob().then(blob => {
-            // Creating new object of PDF file
-            const fileURL = window.URL.createObjectURL(blob);
-            // Setting various property values
-            let alink = document.createElement('a');
-            alink.href = fileURL;
-            alink.download = 'Download CV.pdf';
-            alink.click();
-        })
-    })
-}
+//   const onButtonClick = () => {
+//     // using Java Script method to get PDF file
+//     fetch(myResume).then(response => {
+//         response.blob().then(blob => {
+//             // Creating new object of PDF file
+//             const fileURL = window.URL.createObjectURL(blob);
+//             // Setting various property values
+//             let alink = document.createElement('a');
+//             alink.href = fileURL;
+//             alink.download = 'Download CV.pdf';
+//             alink.click();
+//         })
+//     })
+// }
 
     return (
         <div   className=" container  ">
@@ -38,9 +38,10 @@ const Banner = () => {
 I combine technology, design, and AI tools to turn ideas into real-world solutions.
   
           <br></br>
-         
-            <button onClick={onButtonClick} style={{backgroundColor:"#19AB78",color:"white",border:"none"}} className='btn mt-2 '>
-            Download CV <small className='inline-block'><ImArrowDown/></small>  </button>
+           <a href="https://linktr.ee/mjpixelvibe">
+            <button style={{backgroundColor:"#19AB78",color:"white",border:"none"}} className='btn mt-2 '>
+            
+            Print on Demand <small className='inline-block'><FaArrowRight/></small>  </button> </a>
             </p>
 
           </div>

@@ -12,24 +12,24 @@ const skillss = [
       "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyIEirsm9ozDvwhP--ldqggqf6Yz-gVBLxg&s",
       "name2": "Mobile App",
       "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtTrVvTGj9XFzxZQdTaHmNocXygw72C5HJQ&s",
-      "name3": "Oracle System ",
+      "name3": "Oracle ",
       "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsf_k03KRdC4NkZaZ5esQz8sGlxwBJ-xX9sw&s",
-      "name4": "security system",
+      "name4": "Security Management ",
       "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4J9SRxswvqp80A8qnEZ_6P6a8oyASxOx8rQ&s",
-      "name5": "CCTV system",
+      "name5": "UI Design",
       "img5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dU_3RJlKWqAA1ibIfEsXDdmRMGIHZJLBWQ&s",
     
     },
 {
   "id": 2,
-  "name1": "ChatGPT",
+  "name1": "OpenAI",
   "img1": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
 
-  "name2": "Google Gemini",
-  "img2": "https://img.freepik.com/premium-vector/gemini-logo-icon_1273375-853.jpg",
+  "name2": "gentic AI",
+  "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEy07F4WwFUg63Y9W6szYgd0r83I9jKVY3OA&s",
 
-  "name3": "Midjourney",
-  "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGmOnMb0cQamyIDKNPZKduY8wMWn2XNhtRg&s",
+  "name3": "Img/Vdo Generator ",
+  "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtQct7BNfjT_A1NIRLg6BVMrT9GBkzgQBPQ&s",
 
   "name4": "Runway ML",
   "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoR5JzzqzY9OgZHmLRHM8j8TSg9ONCwrWz7Q&s",
@@ -56,19 +56,19 @@ const skillss = [
   "img5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iaSsAwCkQDsgn_WxZhC5OW-apJBRVP3wHw&s"
 },
 
-    {
-      "id": 4,
-      "name1": "Vs Studio Code",
-      "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1bFwS4rOJgaNvb1xLMNpvRHJK6WEkgbV9A&usqp=CAU",
-      "name2": "Chrome Tools",
-      "img2": "https://github.com/sharifulislm/Protfolio-/blob/main/skills-icon/skills-icon%20(1).png?raw=true",
-      "name3": "Wordpress",
-      "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvB7zu5BqUfaCqgAdsqI5NfkPL1-n0Jx1LA&s",
-      "name4": "Stripe",
-      "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnfaLYnjLtsJ7BuV8aYJ2tUNzSvztoahLZA&s",
-      "name5": "DaisyUI",
-      "img5": "https://azim-profile.netlify.app/static/media/dui.f3c5220288ff2b6eedcd.png",
-    }
+    // {
+    //   "id": 4,
+    //   "name1": "Vs Studio Code",
+    //   "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1bFwS4rOJgaNvb1xLMNpvRHJK6WEkgbV9A&usqp=CAU",
+    //   "name2": "Chrome Tools",
+    //   "img2": "https://github.com/sharifulislm/Protfolio-/blob/main/skills-icon/skills-icon%20(1).png?raw=true",
+    //   "name3": "Wordpress",
+    //   "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvB7zu5BqUfaCqgAdsqI5NfkPL1-n0Jx1LA&s",
+    //   "name4": "Stripe",
+    //   "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnfaLYnjLtsJ7BuV8aYJ2tUNzSvztoahLZA&s",
+    //   "name5": "DaisyUI",
+    //   "img5": "https://azim-profile.netlify.app/static/media/dui.f3c5220288ff2b6eedcd.png",
+    // }
 
 
   ]
@@ -79,7 +79,7 @@ const skillss = [
         <div id='Skills'><h1 style={{color:"#19AB78"}} className='text-3xl mt-5 m-auto text-center'>My Skills</h1>
             <div style={{backgroundColor:"#19AB78"}} className='m-auto w-40 mb-5 mt-1 h-1 '></div>
             </div>
-       <div  className='mb-5 grid grid-cols-2 lg:grid-cols-5  mt-7 gap-1  sm:mb-20 '>
+       <div  className='mb-5 grid grid-cols-2 lg:grid-cols-4  mt-7 gap-1  sm:mb-20 '>
 
       <div>
       <div 
