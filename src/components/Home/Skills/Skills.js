@@ -22,7 +22,7 @@ const skillss = [
     },
 {
   "id": 2,
-  "name1": "Prompt Engeniring ",
+  "name1": "Prompt Engineering ",
   "img1": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
 
   "name2": "agentic AI Automation",

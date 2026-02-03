@@ -21,7 +21,7 @@ const Typewrite = () => {
             5000,
             "Marketing Agency",
             5000,
-               "Promt Engineering",
+               "Prompt Engineering",
             5000,
                "AI Developer ",
             5000,
