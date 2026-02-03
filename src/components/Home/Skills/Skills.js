@@ -22,13 +22,13 @@ const skillss = [
     },
 {
   "id": 2,
-  "name1": "Promt Engeniring ",
+  "name1": "Prompt Engeniring ",
   "img1": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
 
   "name2": "agentic AI Automation",
   "img2": "https://raw.githubusercontent.com/sharifulislm/Minas_protfolio/refs/heads/main/src/assets/logo/download%20(3).jfif",
 
-  "name3": "Img/Vdo Generator ",
+  "name3": "Img/Vid Generator ",
   "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtQct7BNfjT_A1NIRLg6BVMrT9GBkzgQBPQ&s",
 
   "name4": "JavaScript",

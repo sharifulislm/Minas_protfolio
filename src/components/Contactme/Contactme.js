@@ -52,7 +52,7 @@ const Contactme = () => {
           className="contact-option">
           <RiMessengerLine className="contact_option_icon m-auto text-white" />
             <h4>Messenger</h4>
-            <h5>Menis Jean</h5>
+            <h5>Mjpixelvide </h5>
             <a
               href="https://linktr.ee/mjpixelvibe"
               target="_blank"

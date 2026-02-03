@@ -58,7 +58,7 @@ const About = () => {
               data-aos-anchor-placement="top-bottom"
               data-aos-duration="1500"
             >
-Im Manis Jean  
+Im MJ  
 A versatile technology professional with experience in IT support, software development, AI-based solutions, digital content creation, prompt engineering, and digital marketing. Skilled in delivering efficient, high-quality solutions, managing time effectively, and adapting to different project requirements. Committed to continuous learning, problem-solving, and providing reliable services that add real value to businesses and clients. <br />
  let me know via Phone call, whatsapp or email.
                </p>

@@ -25,7 +25,7 @@ const Typewrite = () => {
             5000,
                "AI Developer ",
             5000,
-            "Minas Jean",
+            "MJ",
             5000,
         
           () => {
